@@ -17,7 +17,7 @@ if(isset($_POST['searchquery']) && $_POST['searchquery'] != ""){
 
     </form>
 
-    <h1 style="color: #000000; font-size: 15px">Mark</h1>>
+    <h1 style="color: #000000; font-size: 15px">Mark</h1>
     <form action="./results.php" method="get">
         <input type="text" name="input" size="5">
 
@@ -25,13 +25,13 @@ if(isset($_POST['searchquery']) && $_POST['searchquery'] != ""){
 
     </form>
 
-    <h1 style="color: #000000; font-size: 15px">Mudel</h1>>
+    <h1 style="color: #000000; font-size: 15px">Mudel</h1>
     <form action="./results.php" method="get">
         <input type="text" name="input" size="5">
 
     </form>
 
-    <h1 style="color: #000000; font-size: 15px">Aasta</h1>>
+    <h1 style="color: #000000; font-size: 15px">Aasta</h1>
     <form action="./results.php" method="get">
         <input type="text" name="input" size="5">
 
